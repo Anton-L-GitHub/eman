@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "joi": "^13.1.0",
+    "morgan": "^1.10.0"
+  }
+}
